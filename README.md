@@ -47,7 +47,7 @@ procyon-d2j-app-debug.apk.jar - decompiled jar to java
 --------------------
 dex2jar : https://github.com/pxb1988/dex2jar
 
-procyon : https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler
+procyon : https://bitbucket.org/mstrobel/procyon
 
 apktool : https://ibotpeaches.github.io/Apktool/
 
