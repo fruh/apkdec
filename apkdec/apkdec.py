@@ -50,6 +50,10 @@ def main():
     parser.add_option("--proycon-options", action="store", dest="proycon_options", default="",
                       help="additional proycon options")
 
+    if len(sys.argv) < 2:
+        parser.print_help()
+
+        sys.exit(1)
     (options, args) = parser.parse_args()
 
     if not os.path.exists(options.out):
