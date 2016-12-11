@@ -11,10 +11,7 @@ This tool is a wrapper for external tools mentioned at the bottom. It makes them
 --------------------
 ```
 Usage: apkdec.py [options]
-Requirements
---------------------
-JRE 1.7 (Java Runtime Environment)
-Python 3
+
 Options:
   -h, --help            show this help message and exit
   --out=OUT             output directory
